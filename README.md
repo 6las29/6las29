@@ -11,25 +11,36 @@
 > - I'm looking to work on any pertinent project that will help me to apply my knowledges in programming and discover some new things 
 >
 
+ # **STREAK**
+ 
+ >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=6las29)](https://git.io/streak-stats)
 
  # **Languages and Tools**
 
->![CSS](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg) 
-![MARKDOWN](https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg) 
-![VISUALSTUDIO](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)
-![HTML](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg) 
-![JAVA](https://www.vectorlogo.zone/logos/java/java-ar21.svg)
-![TOMCAT](https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-ar21.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)
-![Linux](https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg) 
-><img src=https://user-images.githubusercontent.com/109312758/183715382-f7ea69e4-fdf4-4a53-ba30-f76e0613e3e1.svg width="40" alt="JavaScript"> 
-><img src=https://user-images.githubusercontent.com/109312758/183715370-e47b384e-ac04-464f-8b1c-daffb18b87ac.svg width="100" alt="Github">
+>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+>![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+>![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)*
+>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+>![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+>![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+>![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
  # **Connect with me**
 
- >[![STACKOVERFLOW](https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg)](https://stackoverflow.com/users/16334370/kev-silas)
- ![GMAIL](https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg)
- [![TWITTER](https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg)](https://twitter.com/silas_charo)
- <a href="https://github.com/6las29"><img src=https://user-images.githubusercontent.com/109312758/183715370-e47b384e-ac04-464f-8b1c-daffb18b87ac.svg width="100" alt="Github"></a>
-
+ >[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16334370/kev-silas)
+ >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ >[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/silas_charo)
+ >[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/6las29)
+ >[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/Silas_Huncho)
+ >![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+ >
